@@ -1,5 +1,5 @@
 <?php
-
+Include teste
 /**
  * i-Educar - Sistema de gestão escolar
  *
