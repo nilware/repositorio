@@ -1,6 +1,7 @@
 <?php
 Include teste
 Alteração de rotina
+Vou reclassificar as coisas.
 /**
  * i-Educar - Sistema de gestão escolar
  *
