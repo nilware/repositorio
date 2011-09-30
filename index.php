@@ -1,5 +1,6 @@
 <?php
 Include teste
+Alteração de rotina
 /**
  * i-Educar - Sistema de gestão escolar
  *
