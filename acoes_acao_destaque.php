@@ -32,7 +32,7 @@ require_once( "include/Geral.inc.php" );
 
 class clsIndex extends clsBase
 {
-	function Formular(22222222222222222222)
+	function Formular(22222222222222222222xxxxxxxxxxxxxxxxxxxxx)
 	{
 		$this->renderMenu = false;
 		$this->renderMenuSuspenso = false;

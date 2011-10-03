@@ -32,7 +32,7 @@ require_once ("include/clsBanco.inc.php");
 class clsIndex extends clsBase
 {
 	
-	function Formular(aaaaaaaaaaaaaaaaa)
+	function Formular(aaaaaaaaaaaaaaaaacccccccccccccccccccccccc)
 	{
 		$this->SetTitulo( "{$this->_instituicao} Acesso indevido" );
 		$this->processoAp = "244";
@@ -81,7 +81,7 @@ class indice extends clsDetalhe
 }
 
 
-$pagina = new clsIndex(bbbbbbbbbbbbb);
+$pagina = new clsIndex(bbbbbbbbbbbbbxxxxxxxxxxxxxxxxx);
 
 $miolo = new indice();
 $pagina->addForm( $miolo );
